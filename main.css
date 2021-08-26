@@ -242,15 +242,17 @@ hr {
   width: 500px;
   height: 130px;
   border-radius: 20px;
+  padding: 10px;
   background-color: rgb(106 0 159);
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
   font-size: 25px;
   font-weight: bold;
   color: white;
   top: 26%;
-  left: 29%;
+  left: 33%;
   box-shadow: 3px -3px 11px 0px #cb8ae67d;
 }
 .popup::before {
